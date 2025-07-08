@@ -26,5 +26,5 @@ This project detects lane lines in road videos using basic computer vision techn
 \- OpenCV  
 \- NumPy  
 
-### Install Dependencies
+
 
